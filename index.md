@@ -16,24 +16,23 @@ Specializing in **machine learning**, **neuroimaging** and **healthcare analytic
 ### 1. [fNIRS-DataProcessing Pipelines](https://github.com/xiaosuhu/fNIRS-DataProcessing-Pipelines-w-functions)
 Modular fNIRS preprocessing & analysis pipelines for language and pain studies.  
 - **Tech stack**: MATLAB (Homer3/NIRS Toolbox), Python (MNE), Bash  
-- **Highlights**: Batch processing utilities, GLM-ready design matrices, QC helpers, and reproducible function wrappers  
-![fNIRS Pipelines](https://via.placeholder.com/800x400)
-
+- **Highlights**: Applied to datasets of 600+ participants; includes preprocessing utilities, GLM-ready design matrices, first and second level analysis, and QC helpers  
+  
 ---
 
 ### 2. [fNIRS + NLP](https://github.com/xiaosuhu/fNIRS_NLP)
 Exploring brain–language alignment using fNIRS recordings and natural language processing models.  
 - **Tech stack**: MATLAB, Python (PyTorch, Hugging Face Transformers), fNIRS Toolbox  
 - **Highlights**: Compares children’s fNIRS responses during story listening with GPT-2 model embeddings or generated surprisals; bridges cognitive neuroscience and AI  
-![fNIRS NLP](https://via.placeholder.com/800x400)
+![fNIRS NLP](/assets/img/fNIRS_NLP.png)
 
 ---
 
-### 3. [PainTrek/DocTrek](private)
-AI-assisted chronic pain tracking platform.  
-- **Tech stack**: Python, FastAPI, LM Studio, Faiss  
-- **Highlights**: Real-time patient–clinician summaries, HIPAA-compliant deployment  
-![PainTrek screenshot](https://via.placeholder.com/800x400)  
+### 3. [PainTrek / DocTrek] *(Private code)*
+AI-assisted chronic pain tracking and documentation platform.  
+- **Tech stack**: Python (FastAPI), LM Studio, Faiss, Docker  
+- **Highlights**: Real-time patient–clinician summaries, HIPAA-compliant deployment, integration with EHR systems  
+[Visit product site →](https://dent-paintrek.miserver.it.umich.edu/)  
 
 ---
 
