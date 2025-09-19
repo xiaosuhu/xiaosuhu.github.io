@@ -1,10 +1,10 @@
-/* Hero gradient: blue → orange */
+/* Override Cayman header with blue → orange gradient */
 .page-header {
   background: linear-gradient(to right, #0057ff, #ff9a00);
 }
 
-/* Optional: make heading/subtitle readable on orange */
+/* Make sure the text is readable on orange */
 .project-name, .project-tagline {
   color: #ffffff;
-  text-shadow: 0 1px 2px rgba(0,0,0,.25);
+  text-shadow: 0 1px 3px rgba(0,0,0,.3);
 }
