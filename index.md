@@ -3,8 +3,6 @@ layout: default
 title: Xiao-Su (Frank) Hu
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
-
 ![Frank Hu](/assets/img/frank-hu.jpg){: style="float: right; margin-left: 20px; width: 200px;" }
 
 # Hi, I’m Frank Hu

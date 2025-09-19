@@ -2,13 +2,3 @@ title: "Xiao-Su (Frank) Hu"
 description: "Data Scientist | Machine Learning & Neuroimaging & Healthcare"
 theme: jekyll-theme-cayman
 
-# Add custom CSS
-sass:
-  style: compressed
-
-plugins:
-  - jekyll-include-cache
-
-# Point to your CSS
-include:
-  - assets/css
