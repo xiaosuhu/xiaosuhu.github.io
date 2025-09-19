@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frank Hu
+title: Xiao-Su (Frank) Hu
 ---
 
 ![Frank Hu](/assets/img/frank-hu.jpg){: style="float: right; margin-left: 20px; width: 200px;" }
@@ -91,7 +91,7 @@ AI-assisted pain tracking and documentation platform.
 ---
 
 ## 📬 Contact
-- **Email**: xiaosuhu@umich.edu/xiaosuhu86@gmail.com  
+- **Email**: xiaosuhu@umich.edu | xiaosuhu86@gmail.com  
 - **GitHub**: [Xiaosu Hu](https://github.com/xiaosuhu)  
 - **LinkedIn**: [Xiaosu Hu](https://www.linkedin.com/in/xiaosu-hu-1458a656)  
 
