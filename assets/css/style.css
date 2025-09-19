@@ -1,3 +1,10 @@
+/* Hero gradient: blue → orange */
 .page-header {
-  background: linear-gradient(to right, #0000ff, #ffa500); /* blue → orange */
+  background: linear-gradient(to right, #0057ff, #ff9a00);
+}
+
+/* Optional: make heading/subtitle readable on orange */
+.project-name, .project-tagline {
+  color: #ffffff;
+  text-shadow: 0 1px 2px rgba(0,0,0,.25);
 }
