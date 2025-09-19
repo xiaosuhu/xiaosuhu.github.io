@@ -92,6 +92,6 @@ AI-assisted pain tracking and documentation platform.
 
 ## 📬 Contact
 - **Email**: xiaosuhu@umich.edu/xiaosuhu86@gmail.com  
-- **GitHub**: [xiaosuhu](https://github.com/xiaosuhu)  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/xiaosu-hu-1458a656)  
+- **GitHub**: [Xiaosu Hu](https://github.com/xiaosuhu)  
+- **LinkedIn**: [Xiaosu Hu](https://www.linkedin.com/in/xiaosu-hu-1458a656)  
 
