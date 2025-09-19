@@ -1,6 +1,6 @@
-/* Cayman hero header */
+/* Cayman hero header: blue → orange */
 .page-header {
-  background: linear-gradient(to right, #0057ff, #ff9a00); /* blue → orange */
+  background: linear-gradient(to right, #0057ff, #ff9a00);
 }
 .project-name, .project-tagline {
   color: #ffffff;
