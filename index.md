@@ -6,8 +6,7 @@ title: Xiao-Su (Frank) Hu
 ![Frank Hu](/assets/img/frank-hu.jpg){: style="float: right; margin-left: 20px; width: 200px;" }
 
 # Hi, I’m Frank Hu
-Research Scientist at the University of Michigan  
-Specializing in **machine learning**, **neuroimaging** and **healthcare analytics**.
+I’m a Data Scientist at the Michigan Institute for Data and AI in Society (MIDAS), University of Michigan. My work centers on developing and applying machine learning and AI methods to analyze complex, high-dimensional data in interdisciplinary research. With over 15 years of experience in neuroimaging—particularly functional near-infrared spectroscopy (fNIRS) and EEG—I specialize in integrating multimodal brain signals with advanced computational techniques to uncover new insights into human cognition and health.
 
 ---
 
