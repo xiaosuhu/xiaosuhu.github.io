@@ -42,3 +42,10 @@ social:
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=wody7D8AAAAJ&hl=en
     icon: scholar
+
+# Add this to your existing _config.yml
+sass:
+  style: compressed
+
+# Cache busting
+time: {{ site.time | date_to_xmlschema }}
