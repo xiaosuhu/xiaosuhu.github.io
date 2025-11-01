@@ -1,3 +1,45 @@
 title: "Xiao-Su (Frank) Hu"
 description: "Data Scientist | Machine Learning Expert | Neuroimaging | Healthcare"
-theme: jekyll-theme-cayman
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+baseurl: "" # Leave empty if using username.github.io repo
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Alembic theme settings
+theme: alembic-jekyll-theme
+
+# Author settings
+author:
+  name: "Xiao-Su (Frank) Hu"
+  email: "xiaosuhu@umich.edu"
+  twitter: "" # Optional
+  github: "xiaosuhu"
+  linkedin: "xiaosu-hu-1458a656"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Publications
+    url: /publications/
+  - title: Contact
+    url: /contact/
+
+# Social links (appear in footer)
+social:
+  - title: GitHub
+    url: https://github.com/xiaosuhu
+    icon: github
+  - title: LinkedIn  
+    url: https://www.linkedin.com/in/xiaosu-hu-1458a656
+    icon: linkedin
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=wody7D8AAAAJ&hl=en
+    icon: scholar
