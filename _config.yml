@@ -1,25 +1,25 @@
 title: "Xiao-Su (Frank) Hu"
 description: "Data Scientist | Machine Learning Expert | Neuroimaging | Healthcare"
-url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
-baseurl: "" # Leave empty if using username.github.io repo
+url: "https://xiaosuhu.github.io"
+baseurl: ""
+
+# Use remote_theme instead of theme
+remote_theme: daviddarnes/alembic
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 plugins:
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Alembic theme settings
-theme: alembic-jekyll-theme
 
 # Author settings
 author:
   name: "Xiao-Su (Frank) Hu"
   email: "xiaosuhu@umich.edu"
-  twitter: "" # Optional
   github: "xiaosuhu"
-  linkedin: "xiaosu-hu-1458a656"
+  linkedin: "xiaosuhu"
 
 # Navigation
 navigation:
@@ -31,15 +31,3 @@ navigation:
     url: /publications/
   - title: Contact
     url: /contact/
-
-# Social links (appear in footer)
-social:
-  - title: GitHub
-    url: https://github.com/xiaosuhu
-    icon: github
-  - title: LinkedIn  
-    url: https://www.linkedin.com/in/xiaosu-hu-1458a656
-    icon: linkedin
-  - title: Google Scholar
-    url: https://scholar.google.com/citations?user=wody7D8AAAAJ&hl=en
-    icon: scholar
