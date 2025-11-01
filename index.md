@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![Frank Hu](/assets/img/frank-hu.jpg){: .about-image }
+![Frank Hu](/assets/img/frank-hu.jpg){: style="float: right; margin-left: 20px; width: 300px;" }
 
 # Hi, I'm Frank Hu
 
@@ -11,7 +11,12 @@ I'm a Data Scientist/Machine Learning Expert at the Michigan Institute for Data 
 
 ---
 
-## Quick Links
-- [View My Projects](/projects)
-- [Browse Publications](/publications) 
-- [Get In Touch](/contact)
+## Skills
+
+**Technical Skills**  
+- **AI/ML**: CNN, RNN, LSTM, Transformer, LLMs (prompt engineering, fine-tuning, RAG, LangGraph)  
+- **Programming**: Python, MATLAB, Bash, Git, GitHub  
+- **Data**: Pandas, NumPy, Scikit-learn, MNE, PyTorch, SQL, PostgreSQL  
+- **Deployment**: Docker, REST APIs, data pipelines  
+- **Tools**: Jupyter Notebook, VS Code, GitHub, Linux, Conda  
+- **Neuroimaging**: fNIRS, EEG, fMRI & their integration  
