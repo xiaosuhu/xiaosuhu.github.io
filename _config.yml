@@ -20,23 +20,16 @@ author:
   github: "xiaosuhu"
   linkedin: "xiaosu-hu-1458a656"
 
-# Navigation - ONLY YOUR PAGES
+# Navigation - CORRECT ORDER
 navigation:
   - title: Home
     url: /
   - title: Projects
     url: /projects/
-  - title: Publications
+  - title: Publications  
     url: /publications/
   - title: Contact
     url: /contact/
-
-# Remove or comment out Alembic's demo collections
-# collections:
-#   elements:
-#     output: true
-#   looks-like-another-collection:
-#     output: true
 
 # Social links (appear in footer)
 social:
