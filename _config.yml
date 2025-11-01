@@ -43,9 +43,13 @@ social:
     url: https://scholar.google.com/citations?user=wody7D8AAAAJ&hl=en
     icon: scholar
 
-# Add this to your existing _config.yml
+# Sass settings
 sass:
   style: compressed
 
-# Cache busting
-time: {{ site.time | date_to_xmlschema }}
+# Disable default collections
+collections:
+  posts:
+    output: false
+  elements:
+    output: false
