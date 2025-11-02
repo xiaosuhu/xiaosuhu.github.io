@@ -10,7 +10,7 @@ Modular fNIRS preprocessing & analysis pipelines for language and pain studies.
 - **Tech stack**: MATLAB (NIRS Toolbox) 
 - **Highlights**: Applied to datasets of 600+ participants; includes preprocessing utilities, GLM-ready design matrices, first and second level analysis, results plotting, and QC helpers  
 
----
+
 
 ### [fNIRS + NLP](https://github.com/xiaosuhu/fNIRS_NLP)
 Exploring brain–language alignment using fNIRS recordings and large language models (LLM).  
@@ -18,7 +18,8 @@ Exploring brain–language alignment using fNIRS recordings and large language m
 - **Highlights**: Compares children's fNIRS responses during story listening with GPT-2 model embeddings or generated surprisals; bridges cognitive neuroscience and AI  
 ![fNIRS NLP](/assets/img/fNIRS_NLP.png)
 
----
+
+
 
 ### PainTrek / DocTrek *(Private code)*
 AI-assisted pain tracking and documentation platform.  

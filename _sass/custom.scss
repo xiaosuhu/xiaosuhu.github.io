@@ -63,3 +63,33 @@ h2 + ul, h2 + p {
 hr {
     margin: 1rem 0 !important; // Reduced from default
 }
+
+/* Background image with transparency */
+body {
+    background-image: url('/assets/img/huayan.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    
+    /* Add overlay for better readability */
+    position: relative;
+}
+
+/* Create a semi-transparent overlay so text is readable */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.85) !important; /* White with 85% opacity */
+    z-index: -1;
+}
+
+/* Ensure content stays above the background */
+.main-content, .navigation, footer {
+    position: relative;
+    z-index: 1;
+}
