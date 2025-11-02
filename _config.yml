@@ -21,7 +21,8 @@ author:
   linkedin: "xiaosu-hu-1458a656"
 
 # Navigation - CORRECT ORDER
-navigation:
+# Replace your current navigation section with this:
+navigation_header:
   - title: Home
     url: /
   - title: Projects
@@ -53,3 +54,14 @@ collections:
     output: false
   elements:
     output: false
+
+# Try this instead - different key name
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Publications  
+    url: /publications/
+  - title: Contact
+    url: /contact/
