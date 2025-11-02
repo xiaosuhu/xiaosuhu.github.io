@@ -1,9 +1,10 @@
-// _sass/custom.scss
+// Remove the test styles first - delete the red background and green headings
+// Keep your font styles and add these:
 
-/* Modern font stack and sizes */
+/* Fix line spacing and paragraph margins */
 body {
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.4 !important; // Changed from 1.6 to 1.4 for tighter spacing
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", "WenQuanYi Micro Hei", "Noto Sans", sans-serif !important;
     font-weight: 400;
     color: #333;
@@ -11,43 +12,56 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* Tighter paragraph spacing */
+p {
+    font-size: 16px;
+    line-height: 1.4 !important;
+    margin-bottom: 0.8rem !important; // Reduced from 1rem
+    color: #555;
+}
+
+/* Tighter list spacing */
+li {
+    font-size: 16px;
+    line-height: 1.4 !important;
+    margin-bottom: 0.3rem !important; // Reduced spacing between list items
+}
+
+/* Tighter heading spacing */
 h1 {
     font-size: 2rem !important;
     font-weight: 700;
-    margin-bottom: 1.5rem;
-    line-height: 1.3;
+    margin-bottom: 1rem !important; // Reduced from 1.5rem
+    line-height: 1.2 !important;
     color: #2c3e50;
 }
 
 h2 {
     font-size: 1.5rem !important;
     font-weight: 600;
-    margin: 2.5rem 0 1rem 0;
-    line-height: 1.4;
+    margin: 1.5rem 0 0.8rem 0 !important; // Reduced spacing
+    line-height: 1.3 !important;
     color: #2c3e50;
     border-bottom: 1px solid #eaecef;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.3rem !important;
 }
 
 h3 {
     font-size: 1.25rem !important;
     font-weight: 600;
-    margin: 2rem 0 1rem 0;
-    line-height: 1.4;
+    margin: 1.2rem 0 0.6rem 0 !important; // Reduced spacing
+    line-height: 1.3 !important;
     color: #2c3e50;
 }
 
-p, li {
-    font-size: 16px;
-    line-height: 1.7;
-    margin-bottom: 1rem;
-    color: #555;
+/* Make the content area slightly wider if needed */
+.main-content {
+    max-width: 900px !important; // Slightly wider than default
+    line-height: 1.4 !important;
 }
 
-/* TEST - remove after verification */
-body {
-    background-color: #f0f8ff !important;
-}
-h1 {
-    color: #ff0000 !important;
+/* Navigation font */
+.navigation {
+    font-size: 0.95rem;
+    font-weight: 500;
 }
