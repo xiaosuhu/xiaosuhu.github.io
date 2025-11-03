@@ -19,8 +19,7 @@ Exploring brain–language alignment using fNIRS recordings and large language m
 ![fNIRS NLP](/assets/img/fNIRS_NLP.png)
 
 
-### PainTrek / DocTrek *(Private code)*
+### [PainTrek / DocTrek](https://dent-paintrek.miserver.it.umich.edu/) *(Private code)*
 AI-assisted pain tracking and documentation platform.  
 - **Tech stack**: Python (FastAPI), LM Studio, Faiss, Docker, LLM  
 - **Highlights**: Patient–clinician summaries, HIPAA-compliant deployment, integration with EHR systems  
-[Visit product site →](https://dent-paintrek.miserver.it.umich.edu/)
