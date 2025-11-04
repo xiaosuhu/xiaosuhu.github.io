@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 ---
-
-## Selected Publications
 
 ### Data Analysis Methodology
 1. Hu, X. S., et al. (2020). *Photogrammetry-based stereoscopic optode registration method for functional near-infrared spectroscopy*. **Journal of Biomedical Optics**.
